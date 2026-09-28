@@ -1,0 +1,1 @@
+smolkit — a cross-platform Swiss Army knife
